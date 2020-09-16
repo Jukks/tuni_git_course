@@ -1,1 +1,2 @@
 Workaround file for problems with unit tester
+Line 2
