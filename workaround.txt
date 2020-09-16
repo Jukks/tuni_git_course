@@ -1,0 +1,1 @@
+Workaround file for problems with unit tester
